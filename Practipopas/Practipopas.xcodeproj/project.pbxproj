@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1A2F3ECB2201FC6E0080028A /* memo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2F3ECA2201FC6E0080028A /* memo.swift */; };
 		1A5B350E2201FBBF00A60E58 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5B350D2201FBBF00A60E58 /* AppDelegate.swift */; };
 		1A5B35102201FBBF00A60E58 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5B350F2201FBBF00A60E58 /* ViewController.swift */; };
 		1A5B35132201FBBF00A60E58 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A5B35112201FBBF00A60E58 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1A2F3ECA2201FC6E0080028A /* memo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = memo.swift; sourceTree = "<group>"; };
 		1A5B350A2201FBBF00A60E58 /* Practipopas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Practipopas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A5B350D2201FBBF00A60E58 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1A5B350F2201FBBF00A60E58 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				1A5B35142201FBBF00A60E58 /* Assets.xcassets */,
 				1A5B35162201FBBF00A60E58 /* LaunchScreen.storyboard */,
 				1A5B35192201FBBF00A60E58 /* Info.plist */,
+				1A2F3ECA2201FC6E0080028A /* memo.swift */,
 			);
 			path = Practipopas;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				1A5B35102201FBBF00A60E58 /* ViewController.swift in Sources */,
 				1A5B350E2201FBBF00A60E58 /* AppDelegate.swift in Sources */,
+				1A2F3ECB2201FC6E0080028A /* memo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
